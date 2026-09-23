@@ -1,36 +1,45 @@
 ## Vipul Raj Jha
 
-Computer Science graduate from **IIIT Delhi**, working on **AI data quality and
-LLM evaluation** at Scale AI. I spend most of my time on the part of machine
-learning that is not the model: what the data says, whether the labels are
-right, and whether a rubric means the same thing to twelve different reviewers.
+**AI Data Engineer.** Computer Science graduate from IIIT Delhi. I work on the
+part of machine learning that is not the model: what the training data actually
+says, whether the labels hold up, and whether an evaluation rubric means the
+same thing to twelve different reviewers.
 
-### Scale AI (Outlier)
+### What I do
 
-**Squad Lead, Meter Pavilion.** Scoped the tasks, designed the evaluation
-rubrics and technical assessments, built the review workflow, and ran delivery
-for a distributed technical squad. The squad shipped over 11,000 hours of task
-work at a 3.9/5 average quality rating.
+**Build and lead LLM training-data programmes.** I have scoped task sets,
+designed evaluation rubrics and technical assessments, built the review
+workflows around them, and run delivery for a distributed technical squad as
+its lead. That squad shipped **over 11,000 hours of task work at a 3.9/5
+average quality rating**.
 
-**Coding contributor on Dynamo, Jet Lag and Jet Fuel.** These were the
-heads-down engineering programmes: writing, reviewing and correcting large
-volumes of production-grade code for LLM training data, against per-task
-quality bars. **Every submission was accepted, a 100% acceptance rate across
-all three.**
+**Write the code that becomes the data.** On the heads-down engineering
+programmes I produce and review large volumes of production-grade code written
+to per-task quality bars, in C++, Python and JavaScript. **Every submission I
+have made on that work has been accepted: a 100% acceptance rate.**
 
-**Lead reviewer** on more than half of my assigned projects, including Eunomia
-(multi-model coding and reasoning evaluation). Promoted to L10, the platform's
-senior reviewer tier, and hold the Oracle designation with a 4.3/5 personal
-score across 51 internal quality reviews.
+**Review at the top tier.** I am lead reviewer on more than half of my assigned
+projects, including multi-model coding and reasoning evaluation, holding a
+**4.3/5 personal score across 51 internal quality reviews** and the highest
+reviewer and contributor grades available to me.
 
-### Zinnia Digital Services
+**Build the tooling around it.** Python validation pipelines for automated data
+quality assurance and model output monitoring, RLHF and SFT feedback loops, and
+fine-tuning with LoRA and PEFT. I track delivery on quality, accuracy and
+turnaround rather than on volume.
 
-**Automation and AI Intern.** Built end-to-end QA automation in Python and
-Selenium for Farmers Insurance client applications (Zinnia Live, Zahara), and
+### Before this
+
+**Automation and AI Intern, Zinnia Digital Services.** Built end-to-end QA
+automation in Python and Selenium for insurance client applications, and
 delivered two major phases of their CI/CD pipeline. Regression testing time
 dropped by roughly 65%, and manual estimation effort by more than three hours
-per release cycle. Also worked on REST API contract validation across several
-application releases.
+per release cycle. Also handled REST API contract validation across several
+releases.
+
+**Research Intern, HCD Lab (IIIT Delhi with Ariel University).** AI-assisted
+design evaluation tooling in Java across 150+ structured evaluations, with a
+co-authored peer-reviewed publication.
 
 ---
 
@@ -47,8 +56,9 @@ application releases.
 
 **Languages:** Python, C++, JavaScript, Java, SQL, PHP
 
-**ML and LLM:** PyTorch, Hugging Face, LoRA and PEFT fine-tuning, RAG,
-embeddings, RLHF and SFT data, evaluation rubric design, Model Context Protocol
+**AI and data:** evaluation rubric design, dataset construction, RLHF and SFT,
+LoRA and PEFT fine-tuning, RAG, embeddings and vector search, model output
+validation, PyTorch, Hugging Face
 
 **Engineering:** Node.js, React, Express, REST APIs, MySQL, Docker, GitHub
 Actions, Selenium, pytest and vitest
