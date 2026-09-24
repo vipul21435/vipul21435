@@ -1,6 +1,6 @@
 ## Vipul Raj Jha
 
-Software engineer. I build evaluation environments and tooling for coding agents: containers that build and verify reproducibly, tasks hard enough to defeat frontier models, and the pipelines that gate all of it.
+AI Data Engineer. I build evaluation environments and tooling for coding agents: containers that build and verify reproducibly, tasks hard enough to defeat frontier models, and the pipelines that gate all of it.
 
 CS from IIIT Delhi, 2025. Based in Delhi.
 
