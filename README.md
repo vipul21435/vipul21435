@@ -34,4 +34,4 @@ Python, C++, JavaScript, Java, SQL, PHP. PyTorch and Hugging Face. RAG, embeddin
 
 Codeforces Specialist, 1485. World rank 979 in Round 994 out of 35,000-odd. Over 1000 DSA problems. Dean's List 2023-24.
 
-[vipul21435@iiitd.ac.in](mailto:vipul21435@iiitd.ac.in) | [Codeforces](https://codeforces.com/profile/Vipul21435)
+[LinkedIn](https://www.linkedin.com/in/vipul-raj-jha-491b2023a/) | [vipul21435@iiitd.ac.in](mailto:vipul21435@iiitd.ac.in) | [Codeforces](https://codeforces.com/profile/Vipul21435)
